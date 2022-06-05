@@ -9,5 +9,13 @@
     "install": "cd client && npm install",
     "build": "cd client && npm run build"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "morgan": "^1.10.0"
+  },
+  "description": "tipsy squirrel",
+  "main": "index.js",
+  "repository": "https://github.com/kvmcd/squirrelInTheRoseBush.git",
+  "author": "Kat <kvm@katmcdonald.uk>"
 }

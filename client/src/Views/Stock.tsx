@@ -1,6 +1,6 @@
 import React from "react";
-import { BaseComponent } from "../Components/BaseComponent";
-import { StockItem } from "../Components/StockItem";
+import { BaseComponent } from "../components/BaseComponent";
+import { StockItem } from "../components/StockItem";
 
 export class Stock extends BaseComponent {
 	render() {

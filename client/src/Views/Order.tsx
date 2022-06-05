@@ -1,4 +1,4 @@
-import { BaseComponent } from "../Components/BaseComponent";
+import { BaseComponent } from "../components/BaseComponent";
 
 export class Order extends BaseComponent {
 	render() {
